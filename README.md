@@ -1,0 +1,1 @@
+A simply Array that shows a players name and club using map();
